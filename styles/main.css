@@ -166,3 +166,14 @@ button {
 .cta button {
     border: 2px solid #fff;
 }
+
+footer {
+    padding: 40px;
+    background: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
